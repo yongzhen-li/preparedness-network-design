@@ -7,7 +7,7 @@ This project contains the input data, the source code, and the output results fo
 
 * `Hi.txt` records the pre-positioning cost of each relief package in each relief facility, including the acquisition and holding costs of each relief package.
 
-* `Cij.txt` records the allocation cost of establishing service linkage between each relief faciity and each affected area.
+* `Cij.txt` records the allocation cost of establishing service linkage between each relief facility and each affected area.
 
 * `Dij.txt` records the distance between each relief facility and each affected area.
 
