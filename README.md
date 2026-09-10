@@ -3,7 +3,7 @@ This project contains the input data, the source code, and the output results fo
 
 # For the input data:
 
-* Fi.txt records the fixed location and operation cost for each relief facility.
+* `Fi.txt` records the fixed location and operation cost for each relief facility.
 
 * Hi.txt records the pre-positioning cost of each relief package in each relief facility, including the acquisition and holding costs of each relief package.
 
